@@ -1,1 +1,1 @@
-This website is used to host my game for the TSA competition. It gets biweekly update.
+This website is used to host my game for the TSA competition. It gets biweekly updates.
