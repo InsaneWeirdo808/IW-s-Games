@@ -26,8 +26,8 @@ main {
 }
 
 navbar a:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .navbar li {
